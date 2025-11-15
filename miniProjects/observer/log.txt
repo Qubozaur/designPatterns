@@ -1,0 +1,10 @@
+Temperature registered: -1°C
+Temperature registered: 14°C
+Temperature registered: -1°C
+Temperature registered: 11°C
+Temperature registered: 10°C
+Temperature registered: -10°C
+Temperature registered: 0°C
+Temperature registered: -5°C
+Temperature registered: 11°C
+Temperature registered: 4°C
